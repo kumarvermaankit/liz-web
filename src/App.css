@@ -1,0 +1,94 @@
+.read-more{
+  background-color: #fff !important;
+  color: #02416c !important;
+  padding: 15px 45px !important;
+}
+
+
+.btn-color{
+  background-color: #02416c !important;
+  color: #fff !important;
+  padding: 15px 45px !important;
+}
+
+.btn-color:hover{
+  background-color: #F2CA7Eb2 !important;
+  color:#ffffff !important;
+}
+
+.read-more:hover{
+  background-color: #F2CA7Eb2 !important;
+  color:#ffffff !important;
+}
+
+.btn{
+  border: none !important;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+}
+
+.btn:hover {
+	background-color: #033752 !important;
+	color: #ffffff !important;
+}
+
+.btn-primary{
+  /* padding-left: 45px !important;
+  padding-right: 45px !important; */
+}
+
+.reward-work .item{
+  max-width: 30rem;
+  word-wrap: normal;
+}
+
+.reward-work .item img{
+  
+}
+
+.accordion .btn:hover{
+  background-color: #ffffff !important;
+  color: #2a3659 !important;
+}
+
+.reward-work .item{
+  width: 15rem !important;
+  margin-right: 0rem;
+  margin-right: 1rem;
+  
+}
+
+.reward-work img{
+  background-color: #ecf6fa !important;
+  max-width: 100% !important;
+}
+
+.reward-work p{
+  max-width: 85% !important;
+  text-align: left;
+  display: none;
+}
+
+.reward-work h5{
+  white-space: nowrap;
+  text-align: center !important;
+  color: #000000;
+}
+
+.marquee {
+  align-items: flex-start !important;
+}
+
+.form-floating input, .form-floating select {
+  border-radius: 10px;
+}
+
+.why-us-icon svg{
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.one-feature svg{
+  font-size: 40px;
+  margin-bottom: 20px;
+}

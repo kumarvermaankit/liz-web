@@ -1,0 +1,46 @@
+.text-center {
+    text-align: center !important;
+}
+
+.dialog {
+    font-size: 1000%;
+    overflow-x: hidden !important;
+    letter-spacing: -.2px;
+}
+
+.modal-body {
+    padding: 2rem 3rem 3rem 3rem !important;
+    border-radius: 10px !important;
+}
+
+input{
+    font-size: 14px !important;
+}
+
+.userData div{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.modal-content{
+    
+    border-radius: 10px !important;
+}
+
+.modal-comtent{
+    max-height: 70vh;
+    border-radius: 10px !important;
+}
+
+.modal-body{
+    max-height: 70vh;
+    overflow: auto;
+    
+}
+
+ .btn{
+    border-radius: 50px !important;
+    /* padding: 10px 30px !important; */
+    text-transform: none;
+}
+
